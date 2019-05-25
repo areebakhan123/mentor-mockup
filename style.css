@@ -1,0 +1,40 @@
+.nav{
+    background-color: #200720;
+    color:white;
+    /* width:10%; */
+}
+.div{
+    margin-left: 30px;
+}
+.navi{
+    background-color: #3f0d40;
+    color: white;
+    width: 45%
+}
+.div1{
+    margin-left: 5%;
+}
+.main{
+    display: flex;
+}
+li a{
+    color:white;
+text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+general:hover{
+    color:rgb(14, 13, 13);
+}
+.general{
+    display:inline-block;
+    flex-direction: row;
+    display: inline-flex;
+}
+.name{
+    display: inline-flex;
+}
+.name1{
+    display: inline-flex;
+}
